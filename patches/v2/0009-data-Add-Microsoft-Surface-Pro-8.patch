@@ -1,7 +1,7 @@
-From 945a192ce9e5324528f5a0a6209ec3010ef758a6 Mon Sep 17 00:00:00 2001
+From 0ebb7bcfab7c76373ec9fbe34de1855ae860a073 Mon Sep 17 00:00:00 2001
 From: Maximilian Luz <luzmaximilian@gmail.com>
 Date: Sun, 11 Jun 2023 21:29:52 +0200
-Subject: [PATCH 09/16] data: Add Microsoft Surface Pro 8
+Subject: [PATCH] data: Add Microsoft Surface Pro 8
 
 Based on https://github.com/linux-surface/libwacom-surface/issues/13
 ---
@@ -30,5 +30,5 @@ index 00000000..dcfef119
 +Touch=true
 +Buttons=0
 -- 
-2.52.0
+2.55.0
 
