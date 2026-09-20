@@ -121,7 +121,7 @@ install -d ${RPM_BUILD_ROOT}/%{_udevrulesdir}
 %{_mandir}/man1/libwacom-show-stylus.1*
 
 %changelog
-* Sun Sep 20 2026 Ultramarine Linux <team@ultramarine-linux.org> - 2.20.0-1
+* Sun Sep 20 2026 Cypress Reed <cypress@fyralabs.com> - 2.20.0-1
 - Rebase Surface support patches onto libwacom 2.20.0
 
 * Tue Dec 30 2025 Maximilian Luz <luzmaximilian@gmail.com> - 2.17.0-1
